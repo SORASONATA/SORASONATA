@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there! I'm Worada Sajai 👋
 
-<!--
-**SORASONATA/SORASONATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UX/UI Designer and Front-end Developer based in Chiang Mai, Thailand. With experience in Python, Java, React, and JavaScript, I enjoy creating intuitive user interfaces and building efficient web applications.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- **Languages**: JavaScript, TypeScript, Python, Java
+- **Frameworks**: React, HTML, CSS
+- **Tools**: Figma, Docker, Jupyter
+- 
+### 🌐 Find me online
+- [LinkedIn](https://www.linkedin.com/in/worada-sajai-2176972b1/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Expand my expertise in UX/UI design and Full-stack development
+- Explore new technologies and stay updated with industry trends
+- Develop and deploy personal projects to enhance practical skills
+- Network with other professionals and collaborate on innovative solutions
