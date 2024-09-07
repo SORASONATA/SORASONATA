@@ -6,7 +6,7 @@ I'm a UX/UI Designer and Front-end Developer based in Chiang Mai, Thailand. With
 - **Languages**: JavaScript, TypeScript, Python, Java
 - **Frameworks**: React, HTML, CSS
 - **Tools**: Figma, Docker, Jupyter
-- 
+
 ### 🌐 Find me online
 - [LinkedIn](https://www.linkedin.com/in/worada-sajai-2176972b1/)
 
