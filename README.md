@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WORADA SAJAI</h1>
 <h3 align="center">I'm a UX/UI Designer and Front-end Developer based in Chiang Mai, Thailand. With experience in Python, Java, React, and JavaScript, I enjoy creating intuitive user interfaces and building efficient web applications.</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
