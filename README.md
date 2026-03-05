@@ -132,6 +132,11 @@ const worada: Developer = {
 ![cat typing](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 *shipping to prod like nothing happened 😎*
+<div align="center">
+
+![ascii cat](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=500&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=120&lines=%20%2F%5C_%2F%5C+;(+%E2%80%A2w%E2%80%A2+);%2F+%7C+%7C+%5C;(_)(_)~~~~)
+
+</div>
 
 </div>
 
