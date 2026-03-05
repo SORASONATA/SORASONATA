@@ -149,3 +149,11 @@ const worada: Developer = {
 ![Visitor Count](https://komarev.com/ghpvc/?username=SORASONATA&color=F97316&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/SORASONATA/SORASONATA/output/github-contribution-grid-snake-dark.svg)
+
+</div>
