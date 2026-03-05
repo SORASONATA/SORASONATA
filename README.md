@@ -24,12 +24,12 @@
 
 ```typescript
 const worada: Developer = {
-  name:       "Worada Sajai",
-  role:       ["Junior Full Stack Developer", "Frontend Engineer", "UX/UI Designer"],
-  education:  "B.Sc. Computer Science @ Chiang Mai University",
-  current:    "Teaching Assistant — 204101 CS Fundamentals (Python)",
-  award:      "🥉 3rd Place — OOP Project Competition",
-  passion:    "Building user-centered, production-ready web apps",
+  name:        "Worada Sajai",
+  role:        ["Junior Full Stack Developer", "Frontend Engineer", "UX/UI Designer"],
+  education:   "B.Sc. Computer Science @ Chiang Mai University",
+  current:     "Teaching Assistant — 204101 CS Fundamentals (Python)",
+  award:       "🥉 3rd Place — OOP Project Competition",
+  passion:     "Building user-centered, production-ready web apps",
   methodology: "Agile / Scrum 🏃",
 };
 ```
@@ -84,9 +84,13 @@ const worada: Developer = {
 
 </div>
 
+---
+
+## 🔥 Contribution Streak
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SORASONATA&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SORASONATA&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -102,16 +106,6 @@ const worada: Developer = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=SORASONATA&theme=radical&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
 ## 💼 Experience Highlights
 
 | 🏢 Role | 🗓️ Period |
@@ -121,6 +115,28 @@ const worada: Developer = {
 | ⚙️ Software Engineering Project (React + Golang) | Oct 2024 – Mar 2025 |
 | 📱 Mobile App Project (Flutter + Firebase) | Oct 2024 – Mar 2025 |
 | 🎨 UX/UI Design — TLIC CMU (AR Education Platform) | Apr – May 2023 |
+
+---
+
+## 🐱 Me when the code finally works
+
+<div align="center">
+
+![cat wiggle](https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif)
+
+*me after fixing a bug at 2am*
+
+</div>
+
+## 🐱 Me reviewing my own PR
+
+<div align="center">
+
+![cat typing](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+*shipping to prod like nothing happened 😎*
+
+</div>
 
 ---
 
