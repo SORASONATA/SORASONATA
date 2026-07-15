@@ -66,13 +66,6 @@ const worada: Developer = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SORASONATA&theme=radical"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SORASONATA&theme=radical"/>
-</div>
 
 ---
 
