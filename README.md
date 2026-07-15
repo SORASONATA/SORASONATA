@@ -9,12 +9,6 @@
 ╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝░░╚══╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Junior+Frontend+%2F+Full+Stack+Developer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Golang+%7C+Flutter;UX%2FUI+Designer+%F0%9F%8E%A8;Teaching+Assistant+%40+CMU+%F0%9F%8E%93;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
-
-<br/>
-
-[![Email](https://img.shields.io/badge/woradasajai%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woradasajai@gmail.com)
-[![CMU](https://img.shields.io/badge/Chiang_Mai_University-purple?style=for-the-badge&logo=academia&logoColor=white)](https://www.cmu.ac.th)
 
 </div>
 
@@ -28,7 +22,6 @@ const worada: Developer = {
   role:        ["Junior Full Stack Developer", "Frontend Engineer", "UX/UI Designer"],
   education:   "B.Sc. Computer Science @ Chiang Mai University",
   current:     "Teaching Assistant — 204101 CS Fundamentals (Python)",
-  award:       "🥉 3rd Place — OOP Project Competition",
   passion:     "Building user-centered, production-ready web apps",
   methodology: "Agile / Scrum 🏃",
 };
