@@ -12,11 +12,15 @@
 </p>
 
 
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/PEIWARA/PEIWARA/output/github-contribution-grid-snake-dark.svg" width="95%">
 </p>
+
+SKILL TREE
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,py,cpp,cs,java,golang,tailwind,bootstrap,docker,git,linux,firebase,mongodb,postgres,arduino,unity,godot,blender,figma&theme=dark&perline=13" />
+</p>
+
 
 GAME STATS
 <p align="center"> 
