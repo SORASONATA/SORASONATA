@@ -28,6 +28,3 @@ GAME STATS
 <p align="center"> 
   <b>🕹️ GAME OVER? NO. INSERT COIN TO CONTINUE... 🕹️</b> 
 </p> 
-<p align="center"> 
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"> 
-</p>
