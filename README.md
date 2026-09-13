@@ -19,6 +19,17 @@ PLAYER PROFILE
   <img src="https://raw.githubusercontent.com/PEIWARA/PEIWARA/output/github-contribution-grid-snake-dark.svg" width="95%">
 </p>
 
+PLAYER EXP
+
+- Teaching Assistant — 204101 Computer Science (Fundamentals)
+- PAY SOLUTION, Full-Stack Developer Intern
+- Software Engineering Project, Frontend Developer & UX/UI Design
+- HCI Project, UX/UI Design
+- OOP Project, Full-Stack Developer & UX/UI Design
+- Mobile Application Project, Full-Stack Developer
+- TLIC CMU, UX/UI Design
+- Modern Application Project, Full-Stack Developer
+
 SKILL TREE
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,py,cpp,cs,java,golang,tailwind,bootstrap,docker,git,linux,firebase,mongodb,postgres,arduino,unity,godot,blender,figma&theme=dark&perline=13" />
