@@ -21,7 +21,7 @@ PLAYER PROFILE
 
 PLAYER EXP
 
-- Teaching Assistant — 204101 Computer Science (Fundamentals)
+- CHIANG MAI UNIVERSITY,Teaching Assistant — 204101 Computer Science (Fundamentals)
 - VR Horror Game Research — UI-Free Interaction & Fear Experience
 - PAY SOLUTION, Full-Stack Developer Intern
 - Software Engineering Project, Frontend Developer & UX/UI Design
