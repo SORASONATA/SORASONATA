@@ -7,20 +7,20 @@
 </h1> 
 <h1 align="center">👾 PEIWARA 👾</h1> 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SORASONATA&style=for-the-badge&color=00FF41&labelColor=000000&label=PROFILE+VIEWS">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSORASONATA&query=public_repos&label=REPOS&style=for-the-badge&color=FFD700&labelColor=000000&logo=github">
+  <img src="https://komarev.com/ghpvc/?username=PEIWARA&style=for-the-badge&color=00FF41&labelColor=000000&label=PROFILE+VIEWS">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPEIWARA&query=public_repos&label=REPOS&style=for-the-badge&color=FFD700&labelColor=000000&logo=github">
 </p>
 
 
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SORASONATA/SORASONATA/output/github-contribution-grid-snake-dark.svg" width="95%">
+  <img src="https://raw.githubusercontent.com/PEIWARA/PEIWARA/output/github-contribution-grid-snake-dark.svg" width="95%">
 </p>
 
 GAME STATS
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SORASONATA&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF41&fire=FFD700&currStreakLabel=00FF41" width="60%"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PEIWARA&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF41&fire=FFD700&currStreakLabel=00FF41" width="60%"> 
 </p>
 
 
